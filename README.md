@@ -12,3 +12,9 @@ This Usecase-4 was an EDA Analysis performed by the BlueCat team on the Saudi Us
 ## Presentation File
 
 For a summary about the data, and if you would like to see the data charts, please check the PPT file.
+
+## Libraries used
+
+- YData Profiling
+- SweetViz
+- Pandas
